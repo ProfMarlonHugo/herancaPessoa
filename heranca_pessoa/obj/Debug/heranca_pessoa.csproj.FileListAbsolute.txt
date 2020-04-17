@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2015\Projects\heranca_pessoa\heranca_pessoa\bin\Debug\heranca_pessoa.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\heranca_pessoa\heranca_pessoa\bin\Debug\heranca_pessoa.exe
+c:\users\administrador\documents\visual studio 2015\Projects\heranca_pessoa\heranca_pessoa\bin\Debug\heranca_pessoa.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\heranca_pessoa\heranca_pessoa\obj\Debug\heranca_pessoa.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\heranca_pessoa\heranca_pessoa\obj\Debug\heranca_pessoa.exe
+c:\users\administrador\documents\visual studio 2015\Projects\heranca_pessoa\heranca_pessoa\obj\Debug\heranca_pessoa.pdb
